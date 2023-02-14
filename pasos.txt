@@ -1,0 +1,4 @@
+1. Concetar repositorio
+2. Publicar repositorio
+3. Modificar repositorio
+4. Confirmar repositorio
